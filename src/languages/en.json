@@ -1,0 +1,57 @@
+{
+  "//first_comment": "Home Component Section plus The logo part in Header",
+  "siteLogo": "RGN Co",
+  "siteDescription": "Software Company",
+
+  "mainTitle": "Softwares and Portals Design",
+  "mainSub": "Try the best services of",
+  "mainSub-sub": "the century",
+  "serviceClick": "View services",
+
+  "//second_comment": "Header Menu Items",
+  "Home": "Home",
+  "About": "About",
+  "Services": "Services",
+  "Extra services": "Extra services",
+  "Contact us": "Contact us",
+
+  "//third_comment": "About us section",
+  "AboutText": "Rayan Gostar Novin company with the full name 'Rayan Gostar Novin Pardazan Bakhtar' has been providing services to esteemed customers since 1390 in the field of computer software design and production, website design and smartphone applications. Our constant motto at Rayan Gostar Naveen is to satisfy our dear customers and we hope that we have been successful in this way.",
+  "AboutTitle": "We always provide you with the best",
+
+  "//fourth_comment": "Sertvices section",
+  "servicesTitle": "Our services",
+  "servicesTitle-sub": "Our services get into 3 categories",
+  "windowsApps": "Windows Applications",
+  "windowsAppsText": "Including accounting software, warehouse management, personnel attendance, customer service center management, hotel management, tourism institute management, medical service center management",
+  "webPortals": "Web Portals",
+  "webPortalsText": "Web portals are mostly used by large institutions and organizations. This type of software includes things like: employee and personnel management portals, inter-organizational portals for administrative correspondence, insurance company portals, portals for communication with service recipients",
+  "mobileApps": "Mobile Apps",
+  "mobileAppsText": "Softwares such as online stores, personal retail stores with the ability to order products online, private applications and almost any business or organization that has a portal or website to provide services or products to an application to provide the same services on the phone platform. Smart will also need",
+
+  "//fifth_comment": "Extra Sertvices section",
+  "ExservicesTitle": "Extra Services",
+  "ExservicesText": "We are always with you",
+  "ConsultTitle": "Consulting Service",
+  "ConsultText": "Before starting the software production process, it is necessary to provide the necessary advice to the customers and record their opinions to improve the production process during the meeting or meetings held between the customers and our experts. This allows us to provide the best recommendations to customers according to their needs at the very beginning and stay in touch with them until the end of the work. This ultimately leads to an increase in customer satisfaction as well as an increase in the quality of the produced software",
+  "SupervisionTitle": "Phase Monitoring",
+  "SupervisionText": "During the software production process, our specialists send samples of the produced software to customers in several stages, and according to the feedback they receive regarding the change, add a new part or remove a part of the software. They do what is necessary. Therefore, at every stage of the production process, customers will gain the necessary knowledge about the activities performed and the appearance and efficiency of the software, and they will look at our collection with more confidence and peace of mind",
+  "QualityTitle": "Quality Assurance",
+  "QualityText": "Our company uses experienced professionals in software production. For this reason, we assure you that the final software is at the highest possible level in terms of quality and efficiency, and this quality guarantee from our side will convince you to use our software for a long time and with satisfaction. did Also, round-the-clock and long-term support of the software is the company's duty, and you as our customers will have the feeling that we are always and everywhere with our experts by your side and you are the main and most important assets of this company. We consider the set",
+  "Price": "$Free of charge",
+
+  "//sixth_comment": "Contact us section",
+  "contactusTitle": "Contact us",
+  "contactusMainTitle": "We are available",
+  "contactusButton": "Contact Now",
+
+  "contactusText": "To communicate with our experts, you can contact us twenty-four hours a day through e-mail and contact phones available in this section",
+
+  "//seventh_comment": "Footer section",
+  "AddressTitle": "Address",
+  "AddressCity": "Kermanshah",
+  "AddressCountry": "Iran",
+  "AddressLine": "Amirkabir Blv,No. 206010",
+  "Phone": "09183368926",
+  "Email": "info@rayangostar.net"
+}
