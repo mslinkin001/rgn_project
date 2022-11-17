@@ -4,13 +4,13 @@ import { languageOptions, dictionaryList } from "../languages/index";
 
 // create the language context with default selected language
 export const LanguageContext = createContext({
-  userLanguage: "en",
-  dictionary: dictionaryList.en, //from JSON file
+  userLanguage: "fa",
+  dictionary: dictionaryList.fa, //from JSON file
 });
 // it provides the language context to app
 export function LanguageProvider({ children }) {
   //   const defaultLanguage = window.localStorage.getItem("rcml-lang");
-  const [userLanguage, setUserLanguage] = useState("en");
+  const [userLanguage, setUserLanguage] = useState("fa");
 
   const provider = {
     userLanguage,

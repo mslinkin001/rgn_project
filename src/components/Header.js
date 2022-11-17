@@ -54,7 +54,7 @@ const Header = () => {
                 );
               })}
 
-              <li>
+              <li onClick={navHideHandler}>
                 <i
                   className={"bx bx-" + darkIcon + " change-theme"}
                   id="theme-button"

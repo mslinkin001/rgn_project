@@ -6,7 +6,7 @@ import "./style.css";
 const selectOptions = ["En", "Fa"];
 
 const ChangeLang = (props) => {
-  const [siteLang, setSiteLang] = useState(selectOptions[0]);
+  const [siteLang, setSiteLang] = useState(selectOptions[1]);
   const activeLink = "active-link";
   const activeEnIcon = siteLang === "En" ? activeLink : "";
   const activeFaIcon = siteLang === "Fa" ? activeLink : "";
@@ -16,6 +16,7 @@ const ChangeLang = (props) => {
     userLanguageChange("en");
     setSiteLang("En");
     props.navHideLang();
+    document.body.style.fontFamily = "Poppins";
     document.body.style.direction = "ltr";
   };
 
