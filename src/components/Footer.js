@@ -56,17 +56,17 @@ const Footer = () => {
             </h3>
             <ul>
               <li>
-                <a href="#Exservices" className="footer__link">
+                <a href="#Extra services" className="footer__link">
                   <Text tid="ConsultTitle" />
                 </a>
               </li>
               <li>
-                <a href="#Exservices" className="footer__link">
+                <a href="#Extra services" className="footer__link">
                   <Text tid="SupervisionTitle" />
                 </a>
               </li>
               <li>
-                <a href="#Exservices" className="footer__link">
+                <a href="#Extra services" className="footer__link">
                   <Text tid="QualityTitle" />
                 </a>
               </li>
