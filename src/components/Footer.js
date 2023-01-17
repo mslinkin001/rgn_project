@@ -95,7 +95,7 @@ const Footer = () => {
         </div>
 
         <p className="footer__copy" style={{ direction: "ltr" }}>
-          &#169; 2022 RGN. All right reserved Designed By:
+          &#169; 2023 RGN. All right reserved Designed By:
           <a href="https://github.com/mslinkin001" target="__blank">
             Milad Sohrabi
           </a>
